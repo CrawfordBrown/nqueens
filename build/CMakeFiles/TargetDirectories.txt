@@ -1,0 +1,4 @@
+/Users/crawford/Documents/Napier/Year_4/CandPSystems/cw_2/build/CMakeFiles/run.dir
+/Users/crawford/Documents/Napier/Year_4/CandPSystems/cw_2/build/CMakeFiles/open.dir
+/Users/crawford/Documents/Napier/Year_4/CandPSystems/cw_2/build/CMakeFiles/edit_cache.dir
+/Users/crawford/Documents/Napier/Year_4/CandPSystems/cw_2/build/CMakeFiles/rebuild_cache.dir
